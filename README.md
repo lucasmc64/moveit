@@ -32,9 +32,11 @@ Com o Node.JS instalado, acesse cada o diretório do projeto via terminal e rode
 
 ### Rodando o Frontend :sparkles:
 
-Com as dependências devidamente instaladas, ainda no terminal, execute `npm start` ou `yarn start`. Uma mensagem parecida com a seguinte aparecerá para você:
+Com as dependências devidamente instaladas, ainda no terminal, execute `npm run dev` ou `yarn dev`. Uma mensagem parecida com a seguinte aparecerá para você:
 
-![Resultado (frontend) do npm start no terminal](/readme-images/running-frontend.png)
+![Resultado ao rodar o projeto no terminal](/readme-images/running-frontend.png)
+
+Agora basta acessar o endereço *http://localhost:3000* em seu navegador favorito para ver o projeto em execução.
 
 Obs.: Caso não tenha sido esse o resultado verifique que os requisitos e os passos anteriores tenham sido cumpridos.
 
