@@ -1,45 +1,47 @@
 ![Move.it Banner](readme-images/cover.png)
 
-# Move.it :running:
-
-*Esse foi um projeto desenvolvido durante a Next Level Week #04 (Trilha: ReactJS).*
-
-## O que é a Next Level Week? :rocket:
-
-A [NLW](https://nextlevelweek.com/) é uma semana programada pela [Rocketseat](https://rocketseat.com.br/) na qual, através de aulas, lives, prática e com apoio da comunidade, vai te ajudar a dar o próximo passo na sua evolução como dev.
-
-## Objetivo :dart:
-
-Move.it é um projeto que visa te ajudar a se concentrar em suas tarefas, mas te lembrando sempre de descansar, respirar e se exercitar. Sabemos que tempo é dinheiro, mas sua saúde, importa.
-
-## Alguns detalhes :scroll:
-
-* O fontend é construído com o ReactJS, auxiliado pelo Next.js.
-
-## Como rodar o projeto em minha máquina? :thinking:
-
-O primeiro passo é clonar o projeto, seja via terminal ou GitHub Desktop, ou mesmo baixando o arquivo compactado (.zip). Após isso, siga adiante.
+# :running: Move.it 
 
 
-### Requisitos :hammer_and_wrench:
+*This was a project developed during Next Level Week #04 (Track: ReactJS).*
 
-* Ter o [Node.JS](https://nodejs.org/) instalado no seu computador.
-* (Opcional) Ter o [Yarn](https://yarnpkg.com/) instalado no seu computador.
+> :us: If you prefer to read in another language, this README was also written in english. Click [HERE](/README.md) to access.
 
-### Instalando dependências :mag:
+## :rocket: What is Next Level Week? 
 
-Com o Node.JS instalado, acesse cada o diretório do projeto via terminal e rode o comando `npm install`. Caso você prefira usar o Yarn, basta rodar o comando `yarn`.
+The [NLW](https://nextlevelweek.com/) is a week programmed by [Rocketseat](https://rocketseat.com.br/) in which, through classes, lives, practice and with support from the community, it will help you take the next step in your evolution as a dev.
 
-### Rodando o Frontend :sparkles:
+## :dart: Goal 
 
-Com as dependências devidamente instaladas, ainda no terminal, execute `npm run dev` ou `yarn dev`. Uma mensagem parecida com a seguinte aparecerá para você:
+Move.it is a project that aims to help you focus on your tasks, but always remembering to rest, breathe and exercise. We know that time is money, but your health, matters.
 
-![Resultado ao rodar o projeto no terminal](/readme-images/running-frontend.png)
+## :scroll: Some details 
 
-Agora basta acessar o endereço *http://localhost:3000* em seu navegador favorito para ver o projeto em execução.
+* The fontend is built with ReactJS and Next.js.
 
-Obs.: Caso não tenha sido esse o resultado verifique que os requisitos e os passos anteriores tenham sido cumpridos.
+## :thinking: How do I run the project on my machine? 
 
-### Se tudo deu certo... :tada:
+The first step is to clone the project, either via terminal or GitHub Desktop, or even by downloading the compressed file (.zip). After that, go ahead.
 
-Agora você está rodando o projeto lindamente!
+### :hammer_and_wrench: Requirements 
+
+* [Node.JS](https://nodejs.org/).
+* (Optional) [Yarn](https://yarnpkg.com/).
+
+### :mag: Installing dependencies 
+
+With Node.JS installed, access each project directory via terminal and run the `npm install` command. If you prefer to use Yarn, just run the command `yarn`.
+
+### :sparkles: Running the Frontend
+
+With the dependencies properly installed, still in the terminal, run `npm run dev` or` yarn dev`. A message similar to the following will appear for you:
+
+![Result of the command in the terminal](readme-images/running-frontend.png)
+
+Now just access the address *http://localhost:3000* in your favorite browser, to see the project running.
+
+> If this was not the result, check that the requirements and previous steps have been fulfilled.
+
+### :tada: If everything went well... 
+
+Now you are running the project beautifully!
