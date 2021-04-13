@@ -2,10 +2,9 @@
 
 # :running: Move.it 
 
+> :brazil: Caso prefira ler em outra língua, esse README foi escrito também em português. Clique [AQUI](/README_pt-br.md) para acessar.
 
-*This was a project developed during Next Level Week #04 (Track: ReactJS).*
-
-> :us: If you prefer to read in another language, this README was also written in english. Click [HERE](/README.md) to access.
+> :compass: This was a project developed during Next Level Week #04 (Track: ReactJS).
 
 ## :rocket: What is Next Level Week? 
 
