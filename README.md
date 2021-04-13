@@ -4,7 +4,7 @@
 
 > :brazil: Caso prefira ler em outra língua, esse README foi escrito também em português. Clique [AQUI](/README_pt-br.md) para acessar.
 
-***This was a project developed during Next Level Week #04 (Track: ReactJS).***
+*This was a project developed during Next Level Week #04 (Track: ReactJS).*
 
 ## :rocket: What is Next Level Week? 
 
