@@ -4,7 +4,7 @@
 
 > :us: If you prefer to read in another language, this README was also written in english. Click [HERE](/README.md) to access.
 
-> Esse foi um projeto desenvolvido durante a Next Level Week #04 (Trilha: ReactJS).
+Esse foi um projeto desenvolvido durante a Next Level Week #04 (Trilha: ReactJS).
 
 ## :rocket: O que é a Next Level Week? 
 
