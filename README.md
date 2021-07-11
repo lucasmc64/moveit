@@ -2,9 +2,7 @@
 
 # :running: Move.it 
 
-> :brazil: Caso prefira ler em outra língua, esse README foi escrito também em português. Clique [AQUI](/README_pt-br.md) para acessar.
-
-This was a project developed during Next Level Week #04 (Track: ReactJS).
+> This was a project developed during Next Level Week #04 (Track: ReactJS).
 
 ## :rocket: What is Next Level Week? 
 
@@ -16,7 +14,7 @@ Move.it is a project that aims to help you focus on your tasks, but always remem
 
 ## :scroll: Some details 
 
-* The fontend is built with ReactJS and Next.js.
+- The font-end is built with ReactJS and Next.js.
 
 ## :thinking: How do I run the project on my machine? 
 
@@ -24,16 +22,16 @@ The first step is to clone the project, either via terminal or GitHub Desktop, o
 
 ### :hammer_and_wrench: Requirements 
 
-* [Node.JS](https://nodejs.org/).
-* (Optional) [Yarn](https://yarnpkg.com/).
+- [Node.JS](https://nodejs.org/).
+- (Optional) [Yarn](https://yarnpkg.com/).
 
 ### :mag: Installing dependencies 
 
-With Node.JS installed, access each project directory via terminal and run the `npm install` command. If you prefer to use Yarn, just run the command `yarn`.
+With Node.JS installed, access the project directory via terminal and run the command `npm install`. If you prefer to use Yarn, just run the `yarn` command.
 
 ### :sparkles: Running the Frontend
 
-With the dependencies properly installed, still in the terminal, run `npm run dev` or` yarn dev`. A message similar to the following will appear for you:
+With the dependencies properly installed, still in the terminal, run `npm run dev` or ` yarn dev`. A message similar to the following will appear for you:
 
 ![Result of the command in the terminal](readme-images/running-frontend.png)
 
@@ -44,3 +42,11 @@ Now just access the address *http://localhost:3000* in your favorite browser, to
 ### :tada: If everything went well... 
 
 Now you are running the project beautifully!
+
+## :memo: License
+
+This project is under the MIT license. See the [LICENSE](LICENSE) for more information.
+
+---
+
+Made with :black_heart: by Lucas Coutinho :wave: [Get in touch!](https://www.linkedin.com/in/lucasmc64/)
